@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/26700625?v=4"  />
+<iframe src="https://giphy.com/embed/MFTvSzSu3ceE8" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/sand-sahara-low-drifting-MFTvSzSu3ceE8">via GIPHY</a></p>
 
 ###
 
